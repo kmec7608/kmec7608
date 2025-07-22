@@ -1,6 +1,6 @@
 Hi, i'm kmec7608
 - 👀 I’m interested in coding and reading
-- 🌱 I’m currently learning js and react.js
+- 🌱 I’m currently learning C++ and JAVA. But i'm also interest in HTML, Vue, CSS and Bootstrap
 
 
 <!---
